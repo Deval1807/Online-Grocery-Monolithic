@@ -54,9 +54,9 @@ cd Online-Grocery-Monolithic
 ### Starting the Project
 
 - Install the dependencies:
-        ```bash
-        npm install
-        ```
+    ```bash
+    npm install
+    ```
 - Make sure you have set up the `.env` files (see [Configuration](#configuration))
 - Starting the Services
     ```bash
