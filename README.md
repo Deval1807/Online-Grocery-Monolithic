@@ -41,7 +41,7 @@ cd Online-Grocery-Monolithic
 
 ### Configuration
 
-- Create a new file `.env` in all the 3 services' folders, i.e. customer, products and shopping
+- Create a new file `.env` in the root directory
     - Make sure to have the following configuration in them
 
         ```env
